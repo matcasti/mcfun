@@ -1,0 +1,13 @@
+Package: mcfun
+Title: Utility functions for statistical computing
+Version: 0.0.0.9000
+Authors@R: 
+    person("Matías", "Castillo-Aguilar", , "matcasti@umag.cl", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Provide utility functions for data analysis, including exploratory
+    data analysis, inference statistics and more. 
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
